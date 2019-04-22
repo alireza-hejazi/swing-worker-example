@@ -194,6 +194,7 @@ The swing working is a good candidate for such a problem.  The files listing and
 The following swing worker performs all the work we need.
 
 
+
 ```java
 package com.javacreed.examples.swing.worker.part3;
 
